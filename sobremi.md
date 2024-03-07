@@ -19,6 +19,6 @@ Aliquam bibendum augue ac porttitor cursus. Phasellus mi leo, dictum quis augue 
 Generated 3 paragraphs, 319 words, 2197 bytes of Lorem Ipsum
 ## Qué hase
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis accumsan lacus sit amet porta molestie. Sed hendrerit viverra facilisis. Proin consectetur arcu at elementum facilisis. Curabitur gravida libero lacus, quis ultricies mi eleifend et. Vestibulum sit amet nisl a justo interdum dictum ut vel turpis. Nullam et varius lorem. Morbi ac tincidunt lacus, efficitur feugiat diam. Curabitur fermentum nulla nunc, efficitur aliquet enim consectetur eu. Donec rutrum suscipit nibh eu dignissim. Mauris non ligula tempus, rhoncus ligula eu, consectetur dui. Fusce semper, est vel molestie sollicitudin, dolor erat egestas quam, sit amet scelerisque felis nisi ut leo. Nam eu ornare justo.
-![grafica](https://docs.python.org/es/3.10/library/stdtypes.html)
+![grafica]([https://docs.python.org/es/3.10/library/stdtypes.html](https://images.blackmagicdesign.com/images/common/logos/gn-logo.svg)
 Generated 1 paragraph, 101 words, 687 bytes of Lorem Ipsum
 some description...
